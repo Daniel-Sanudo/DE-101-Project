@@ -1,4 +1,9 @@
 .DS_store
-scrapper/data
-scrapper/__pycache__
-scrapper/scrapper_env
+.env
+logs/
+data/
+dags/scripts/scrapper/__pycache__
+dags/scripts/scrapper/scrapper_env
+dags/scripts/load/__pycache__
+dags/scripts/transform/__pycache__
+EDA/
